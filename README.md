@@ -1,4 +1,5 @@
-POWER_BI DASHBOARD
+#PowerBI_Dashboard
+
 Sales Dashboard 
 • Technologies used : Power BI, Excel 
 • Created interactive dashboard to track and analyze online sales data. 
